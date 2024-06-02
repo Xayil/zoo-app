@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "banas-app",
-    "slug": "banas-app",
+    "name": "zoo-app",
+    "slug": "zoo-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
